@@ -11,7 +11,7 @@ Singularity recipe for [DEEPHYPERX](https://github.com/sandialabs/DEEPHYPERX).
 Copy the
 
 * `SIF` file
-* and the Perl scripts
+* and the scripts
 
 to `/opt/packages/deephyperx/`.
 
